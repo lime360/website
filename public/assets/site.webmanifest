@@ -1,0 +1,14 @@
+{
+    "name": "lime360's website",
+    "short_name": "lime360's website",
+    "icons": [
+        {
+            "src": "/android-chrome-72x72.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#3912ea",
+    "background_color": "#3912ea",
+    "display": "standalone"
+}

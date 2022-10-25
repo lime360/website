@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="https://lime360.neocities.org/feed.xml" rel="self" type="application/rss+xml" />
+    <title>lime360's blog</title>
+    <link>https://lime360.neocities.org/</link>
+    <description>yes i made my blog</description>
+    <language>en-us</language>
+    <item>
+      <title>Hi</title>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 EST</pubDate>
+      <link>https://lime360.neocities.org/blog/posts/2022-02-17-Hi.html</link>
+      <guid>https://lime360.neocities.org/blog/posts/2022-02-17-Hi.html</guid>
+      <description>Just hi.</description>
+    </item>
+    <item>
+      <title>Something</title>
+      <pubDate>Sat, 10 Nov 2022 00:00:00 EST</pubDate>
+      <link>https://lime360.neocities.org/blog/posts/2022-02-26-Something.html</link>
+      <guid>https://lime360.neocities.org/blog/posts/2022-02-26-Something.html</guid>
+      <description>Some news</description>
+    </item>
+    <item>
+      <title>Nanoblog</title>
+      <pubDate>Mon, 26 Jun 2022 01:00:00 EST</pubDate>
+      <link>https://lime360.neocities.org/blog/posts/2022-06-26-Nanoblog.html</link>
+      <guid>https://lime360.neocities.org/blog/posts/2022-06-26-Nanoblog.html</guid>
+      <description>iufhrwiuhghuwuigiuwiwiwguiegiu</description>
+    </item>
+    <item>
+      <title>The future of the website</title>
+      <pubDate>Mon, 04 Jul 2022 19:12:00 EST</pubDate>
+      <link>https://lime360.neocities.org/blog/posts/2022-07-04-The-future-of-the-website.html</link>
+      <guid>https://lime360.neocities.org/blog/posts/2022-07-04-The-future-of-the-website.html</guid>
+      <description>another long blog post</description>
+    </item>
+    <item>
+      <title>random stuff</title>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 EST</pubDate>
+      <link>https://lime360.neocities.org/blog/posts/2022-10-24-random-stuff.html</link>
+      <guid>https://lime360.neocities.org/blog/posts/2022-10-24-random-stuff.html</guid>
+      <description>foikerlwjsgmkoferljes</description>
+    </item>
+    <!--
+    <item>
+      <title>New Post</title>
+      <pubDate>Mon, 01 Jan 1979 00:00:00 EST</pubDate>
+      <link>http://example.com/</link>
+      <guid>http://example.com/</guid>
+      <description></description>
+    </item>
+    -->
+  </channel>
+</rss>

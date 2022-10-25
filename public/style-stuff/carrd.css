@@ -1,0 +1,46 @@
+/* CSS is how you can add style to your website, such as colors, fonts, and positioning of your
+   HTML content. To learn how to do something, just try searching Google for questions like
+   "how to change link color." */
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+body {
+  color: white;
+  background: rgb(0,142,255);
+  background: -moz-linear-gradient(90deg, rgba(0,142,255,1) 0%, rgba(0,255,59,1) 100%);
+  background: -webkit-linear-gradient(90deg, rgba(0,142,255,1) 0%, rgba(0,255,59,1) 100%);
+  background: linear-gradient(90deg, rgba(0,142,255,1) 0%, rgba(0,255,59,1) 100%);
+  font-family: 'Source Sans Pro', sans-serif;
+  margin: 0;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+a {
+  color: white;
+  text-decoration: none;
+}
+a:hover {
+  color: lightblue;
+}
+footer {
+  font-size: 18px;
+  text-align: center;
+}
+.link {
+  border: 5px solid white;
+  border-radius: 25px;
+  padding: 20px;
+  text-align: center;
+  font-size: 1.2em;
+}
+/* code stolen from mutant.tech */
+.mutstd {
+  display: inline-block;
+  height: 22px;
+  width: 22px;
+  vertical-align: middle;
+}
+@media (min-width: 30em) {
+    .row { width: 100%; display: table; table-layout: fixed; }
+    .col { display: table-cell; }
+}

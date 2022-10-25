@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+body {
+  background-color: lightblue;
+  background-image: url("../assets/epic.png");
+  background-repeat: repeat;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+header {
+  color: white;
+  text-align: center;
+}
+article {
+  background-color: white;
+  border-radius: 25px;
+  padding: 20px;
+}
+footer {
+  color: white;
+  text-align: center;
+}
+a {
+  text-decoration: none;
+}
+.cool-link {
+  color: white;
+}
+.cool-link:hover {
+  color: limegreen;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
