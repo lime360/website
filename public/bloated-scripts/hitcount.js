@@ -13,6 +13,6 @@ if (this.readyState == 4 && this.status == 200) {
    }
    document.getElementById("hitcount").innerHTML = num_str;
 }
-   };
+};
 xhttp.open("GET", "https://weirdscifi.ratiosemper.com/neocities.php?sitename=lime360", true);
 xhttp.send();
