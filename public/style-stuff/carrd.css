@@ -37,13 +37,6 @@ footer {
   text-align: center;
   font-size: 1.2em;
 }
-/* code stolen from mutant.tech */
-.mutstd {
-  display: inline-block;
-  height: 22px;
-  width: 22px;
-  vertical-align: middle;
-}
 @media (min-width: 30em) {
     .row { width: 100%; display: table; table-layout: fixed; }
     .col { display: table-cell; }
