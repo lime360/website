@@ -1,7 +1,0 @@
-site lore
-
-so basically:
-
-indie.af (gamejolt site hosting) > wix > indie.af > wordpress > github pages (this is where i host my 2nd site) > indie.af > neocities
-
-and you might be askin: "wait, does sites have lore stuff too?", well i answer: "YES SOME RANDOM STUFF (GAMES/MOVIES/COMICS/WEBSITES) CAN HAVE LORE"
